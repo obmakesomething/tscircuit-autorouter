@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01KYT29FYNNNHQZDQF3QE5TQNE",
+        "title": "$5 Reward: find a non-publicly-listed Mexican RSS feed for SASMEX",
+        "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1",
+        "platform": "GitHub",
+        "featuredBy": null,
+        "claimerUsers": [],
+        "tryingUsers": [],
+        "programmingLanguages": [
+            "TypeScript"
+        ],
+        "createdAt": 1785433735125,
+        "pendingPrice": {
+            "value": 2000,
+            "unit": "USD_CENT"
+        },
+        "organization": {
+            "id": "01KYT29FTPNEC5GSD79YQ799NZ",
+            "logoURL": "https://avatars.githubusercontent.com/u/204522697?v=4",
+            "url": "https://github.com/Vicentegg4212",
+            "name": "Vicentegg4212"
+        },
+        "project": {
+            "id": "01KYT29FVF9FX5JYK9GVYGJJD1",
+            "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty",
+            "name": "sasmex-rss-bounty",
+            "isPublic": true,
+            "isBotInstalled": false
+        }
+    }
+]
