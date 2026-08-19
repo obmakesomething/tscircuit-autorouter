@@ -1,0 +1,41 @@
+name: Fetch current Opire frontend rewards
+
+on:
+  push:
+    branches:
+      - research/opire-bounties-20260819
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    if: ${{ !contains(github.event.head_commit.message, '[opire fetched]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: research/opire-bounties-20260819
+
+      - name: Fetch unclaimed frontend rewards
+        shell: bash
+        run: |
+          mkdir -p research
+          curl --fail --silent --show-error --location \
+            --get 'https://app.opire.dev/api/backend/rewards' \
+            --data-urlencode 'page=1' \
+            --data-urlencode 'itemsPerPage=100' \
+            --data-urlencode 'minPrice=20' \
+            --data-urlencode 'programmingLanguages=TypeScript,JavaScript,CSS,HTML,Vue,Svelte,Astro' \
+            --data-urlencode 'usersTrying=NOBODY' \
+            --output research/opire-frontend-unclaimed-page1.json
+          python3 -m json.tool research/opire-frontend-unclaimed-page1.json > research/opire-frontend-unclaimed-page1.pretty.json
+          mv research/opire-frontend-unclaimed-page1.pretty.json research/opire-frontend-unclaimed-page1.json
+
+      - name: Commit result
+        run: |
+          git config user.name 'obmakesomething'
+          git config user.email '107823004+obmakesomething@users.noreply.github.com'
+          git add research/opire-frontend-unclaimed-page1.json
+          git commit -m 'research: snapshot current unclaimed frontend rewards [opire fetched]'
+          git push origin HEAD:research/opire-bounties-20260819
