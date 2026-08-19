@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "01KWQ0VT1N2TKGCY1CK9T61C1Z",
+    "title": "[BOUNTY] Kickama #304 - deterministic data seed ($50)",
+    "url": "https://github.com/lb1192176991-lab/zeroeye/issues/2",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KTRAGEQ94WQS697Q5T6V5TR6",
+        "username": "jdjioe5-cpu",
+        "avatarURL": "https://avatars.githubusercontent.com/u/257431731?v=4"
+      },
+      {
+        "id": "01KWKERJ85578GQPHY54DZKGAM",
+        "username": "reckoning89",
+        "avatarURL": "https://avatars.githubusercontent.com/u/216601217?v=4"
+      },
+      {
+        "id": "01KWT25RBV6MVWAPDGXNGQRGV4",
+        "username": "soongyintong",
+        "avatarURL": "https://avatars.githubusercontent.com/u/270245293?v=4"
+      },
+      {
+        "id": "01KXRPXR2MXPN45N4EXKM0DW1N",
+        "username": "Perfex-3437",
+        "avatarURL": "https://avatars.githubusercontent.com/u/187198941?v=4"
+      },
+      {
+        "id": "01KY1FYCX2N8W5RS9KRQSTHKYS",
+        "username": "br413",
+        "avatarURL": "https://avatars.githubusercontent.com/u/296583723?v=4"
+      },
+      {
+        "id": "01KYSXSJ4B8PQHMXDWDVTV6E8T",
+        "username": "praveenchand-2005",
+        "avatarURL": "https://avatars.githubusercontent.com/u/231837204?v=4"
+      },
+      {
+        "id": "01M08ZM83W483C0TJ8GPD9WKBK",
+        "username": "ThaiDuong1996",
+        "avatarURL": "https://avatars.githubusercontent.com/u/183896599?v=4"
+      },
+      {
+        "id": "01M09Q4XFT92962GJP6BYKA9FN",
+        "username": "xkong2017",
+        "avatarURL": "https://avatars.githubusercontent.com/u/31047642?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KTRAGEQ94WQS697Q5T6V5TR6",
+        "username": "jdjioe5-cpu",
+        "avatarURL": "https://avatars.githubusercontent.com/u/257431731?v=4"
+      },
+      {
+        "id": "01KWKERJ85578GQPHY54DZKGAM",
+        "username": "reckoning89",
+        "avatarURL": "https://avatars.githubusercontent.com/u/216601217?v=4"
+      },
+      {
+        "id": "01KWSSVZXH98AHQSD4VGS20XWA",
+        "username": "mdsanzidhasnat",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191873432?v=4"
+      },
+      {
+        "id": "01KWT25RBV6MVWAPDGXNGQRGV4",
+        "username": "soongyintong",
+        "avatarURL": "https://avatars.githubusercontent.com/u/270245293?v=4"
+      },
+      {
+        "id": "01KXRPXR2MXPN45N4EXKM0DW1N",
+        "username": "Perfex-3437",
+        "avatarURL": "https://avatars.githubusercontent.com/u/187198941?v=4"
+      },
+      {
+        "id": "01KY1FYCX2N8W5RS9KRQSTHKYS",
+        "username": "br413",
+        "avatarURL": "https://avatars.githubusercontent.com/u/296583723?v=4"
+      },
+      {
+        "id": "01KYSXSJ4B8PQHMXDWDVTV6E8T",
+        "username": "praveenchand-2005",
+        "avatarURL": "https://avatars.githubusercontent.com/u/231837204?v=4"
+      },
+      {
+        "id": "01KZ09ZFTDC0H9QG2BD0CBAW16",
+        "username": "dobleaa989",
+        "avatarURL": "https://avatars.githubusercontent.com/u/311961424?v=4"
+      },
+      {
+        "id": "01M08ZM83W483C0TJ8GPD9WKBK",
+        "username": "ThaiDuong1996",
+        "avatarURL": "https://avatars.githubusercontent.com/u/183896599?v=4"
+      },
+      {
+        "id": "01M09Q4XFT92962GJP6BYKA9FN",
+        "username": "xkong2017",
+        "avatarURL": "https://avatars.githubusercontent.com/u/31047642?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript",
+      "Rust",
+      "Python"
+    ],
+    "createdAt": 1783184091190,
+    "pendingPrice": {
+      "value": 10010000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01KSD6D0VXVAK3YV0YMM6QQ5MR",
+      "logoURL": "https://avatars.githubusercontent.com/u/244153020?v=4",
+      "url": "https://github.com/lb1192176991-lab",
+      "name": "lb1192176991-lab"
+    },
+    "project": {
+      "id": "01KVBGN5XSRNGQ25CGSQM5058E",
+      "url": "https://github.com/lb1192176991-lab/zeroeye",
+      "name": "zeroeye",
+      "isPublic": true,
+      "isBotInstalled": true
+    }
+  },
+  {
+    "id": "01KCKZCP14P37WZQZQA9W6BGJJ",
+    "title": "Donation/funding for german language",
+    "url": "https://github.com/hexgrad/kokoro/issues/290",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KDWYNZ87B3HB9BX0Q01MJ7TM",
+        "username": "ashwinbalas",
+        "avatarURL": "https://avatars.githubusercontent.com/u/117721072?v=4"
+      },
+      {
+        "id": "01KK9HNW15PSKYEB8AGPF1DRFR",
+        "username": "7vignesh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/97684755?v=4"
+      },
+      {
+        "id": "01KMS0362C79ZEJ013M669PY7X",
+        "username": "MAXSIXTO",
+        "avatarURL": "https://avatars.githubusercontent.com/u/220439730?v=4"
+      },
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KNYA2CK044E09SQ2ZA3Y55V4",
+        "username": "semidark",
+        "avatarURL": "https://avatars.githubusercontent.com/u/5747735?v=4"
+      },
+      {
+        "id": "01KV0K9DV4VQY7Z1WX38MBS1WB",
+        "username": "voicenotesite",
+        "avatarURL": "https://avatars.githubusercontent.com/u/79220939?v=4"
+      },
+      {
+        "id": "01KW5ADWRKYCPXVMB3770RJRGD",
+        "username": "zarkoninja7078-cell",
+        "avatarURL": "https://avatars.githubusercontent.com/u/297485480?v=4"
+      },
+      {
+        "id": "01KWQ2P2HGY70BJJYAQY9X9D3T",
+        "username": "Haydar061",
+        "avatarURL": "https://avatars.githubusercontent.com/u/194710396?v=4"
+      },
+      {
+        "id": "01KWY7CCKTBMXHPK91X6DEHEYQ",
+        "username": "NadunNWijekoon",
+        "avatarURL": "https://avatars.githubusercontent.com/u/115790306?v=4"
+      },
+      {
+        "id": "01KYSXSJ4B8PQHMXDWDVTV6E8T",
+        "username": "praveenchand-2005",
+        "avatarURL": "https://avatars.githubusercontent.com/u/231837204?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KDWYNZ87B3HB9BX0Q01MJ7TM",
+        "username": "ashwinbalas",
+        "avatarURL": "https://avatars.githubusercontent.com/u/117721072?v=4"
+      },
+      {
+        "id": "01KK9HNW15PSKYEB8AGPF1DRFR",
+        "username": "7vignesh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/97684755?v=4"
+      },
+      {
+        "id": "01KMS0362C79ZEJ013M669PY7X",
+        "username": "MAXSIXTO",
+        "avatarURL": "https://avatars.githubusercontent.com/u/220439730?v=4"
+      },
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KNYA2CK044E09SQ2ZA3Y55V4",
+        "username": "semidark",
+        "avatarURL": "https://avatars.githubusercontent.com/u/5747735?v=4"
+      },
+      {
+        "id": "01KV0K9DV4VQY7Z1WX38MBS1WB",
+        "username": "voicenotesite",
+        "avatarURL": "https://avatars.githubusercontent.com/u/79220939?v=4"
+      },
+      {
+        "id": "01KW5ADWRKYCPXVMB3770RJRGD",
+        "username": "zarkoninja7078-cell",
+        "avatarURL": "https://avatars.githubusercontent.com/u/297485480?v=4"
+      },
+      {
+        "id": "01KWQ2P2HGY70BJJYAQY9X9D3T",
+        "username": "Haydar061",
+        "avatarURL": "https://avatars.githubusercontent.com/u/194710396?v=4"
+      },
+      {
+        "id": "01KWY7CCKTBMXHPK91X6DEHEYQ",
+        "username": "NadunNWijekoon",
+        "avatarURL": "https://avatars.githubusercontent.com/u/115790306?v=4"
+      },
+      {
+        "id": "01KYSXSJ4B8PQHMXDWDVTV6E8T",
+        "username": "praveenchand-2005",
+        "avatarURL": "https://avatars.githubusercontent.com/u/231837204?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "createdAt": 1765902014500,
+    "pendingPrice": {
+      "value": 277000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01KCKZCNS985NP5RFF3T1PF246",
+      "logoURL": "https://avatars.githubusercontent.com/u/166769057?v=4",
+      "url": "https://github.com/hexgrad",
+      "name": "hexgrad"
+    },
+    "project": {
+      "id": "01KCKZCNV1GNQJKJX5Q2C69RYN",
+      "url": "https://github.com/hexgrad/kokoro",
+      "name": "kokoro",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01KZVNMXEPC56DA7F7BEZF9KJK",
+    "title": "[Test] Windows Voice hook verification",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/932",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KZVNMXBE01C54H2JCHN9AAER",
+        "username": "Misterio070",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149689200?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KZVNMXBE01C54H2JCHN9AAER",
+        "username": "Misterio070",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149689200?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "createdAt": 1786561328598,
+    "pendingPrice": {
+      "value": 150000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01KRNMRA5DWNT4S1RJD0N3GZF6",
+      "logoURL": "https://avatars.githubusercontent.com/u/136884451?v=4",
+      "url": "https://github.com/Ikalus1988",
+      "name": "Ikalus1988"
+    },
+    "project": {
+      "id": "01KRNMRAPEGRPZ09K3HNM3QN1W",
+      "url": "https://github.com/Ikalus1988/MisakaNet",
+      "name": "MisakaNet",
+      "isPublic": true,
+      "isBotInstalled": true
+    }
+  },
+  {
+    "id": "01HWJNZ5HQMVG2TCW6XHQQJ3QT",
+    "title": "Migration generation drops and creates columns instead of altering resulting in data loss",
+    "url": "https://github.com/typeorm/typeorm/issues/3357",
+    "platform": "GitHub",
+    "featuredBy": "01HS1D85NZ891Z2TA13DQMVR6N",
+    "claimerUsers": [
+      {
+        "id": "01HXBSPYXHQCHTX1XZDKPQQK0Y",
+        "username": "Rafael-rgsousa",
+        "avatarURL": "https://avatars.githubusercontent.com/u/12060036?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01JXS8SSX044QGTNPSQVVJAEZQ",
+        "username": "elskow",
+        "avatarURL": "https://avatars.githubusercontent.com/u/103118501?v=4"
+      },
+      {
+        "id": "01KBE6SAVJDZ3J3NJ69F2WEVAD",
+        "username": "Sam-wiz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/112511169?v=4"
+      },
+      {
+        "id": "01KCWM2HADN7GA0NDG76AB3M1G",
+        "username": "natinew77-creator",
+        "avatarURL": "https://avatars.githubusercontent.com/u/228948478?v=4"
+      },
+      {
+        "id": "01KEZHJ4QFDT83N9KW6PP4705V",
+        "username": "GhostDragonAlpha",
+        "avatarURL": "https://avatars.githubusercontent.com/u/143750470?v=4"
+      },
+      {
+        "id": "01KJ5HV4NY4DKDQVFV16T6F0BK",
+        "username": "hruss-software",
+        "avatarURL": "https://avatars.githubusercontent.com/u/227918082?v=4"
+      },
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      },
+      {
+        "id": "01KPKZBZCG1J5C36PMR5WRC6YJ",
+        "username": "budingsoft",
+        "avatarURL": "https://avatars.githubusercontent.com/u/36659585?v=4"
+      },
+      {
+        "id": "01KR9VZV36TZ8XD5W0DMXDZEPX",
+        "username": "acidstorm2024-star",
+        "avatarURL": "https://avatars.githubusercontent.com/u/283478051?v=4"
+      },
+      {
+        "id": "01KRAAG5CY21R3HP7HWYFMAFB5",
+        "username": "dairon2",
+        "avatarURL": "https://avatars.githubusercontent.com/u/122072006?v=4"
+      },
+      {
+        "id": "01KRBJKCJW8MMW0BVSS7G2YZYJ",
+        "username": "hemantrajputt",
+        "avatarURL": "https://avatars.githubusercontent.com/u/104062143?v=4"
+      },
+      {
+        "id": "01KRC3FP0MMGWY8ZAADNACAEHM",
+        "username": "raunaqsingh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/4151636?v=4"
+      },
+      {
+        "id": "01KRCCRP2N6SX1EKY61N88G7A9",
+        "username": "tugayakin",
+        "avatarURL": "https://avatars.githubusercontent.com/u/154616147?v=4"
+      },
+      {
+        "id": "01KRCV0SQZ3H0AE66H608DGZBZ",
+        "username": "HUhonh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/133237397?v=4"
+      },
+      {
+        "id": "01KRCX4SC8NYR911B3KG6DKJVA",
+        "username": "TakoVHS",
+        "avatarURL": "https://avatars.githubusercontent.com/u/184571679?v=4"
+      },
+      {
+        "id": "01KRCZBVGA3GK0M2AX8J6WSA5M",
+        "username": "ZainKazmiii",
+        "avatarURL": "https://avatars.githubusercontent.com/u/111486944?v=4"
+      },
+      {
+        "id": "01KRETCPSVKRQVTSZHHPBP0D95",
+        "username": "neverstopclicking",
+        "avatarURL": "https://avatars.githubusercontent.com/u/284102746?v=4"
+      },
+      {
+        "id": "01KRGX1KF9XZWWNMSJXY6PGAJW",
+        "username": "Vinzz2303",
+        "avatarURL": "https://avatars.githubusercontent.com/u/127033367?v=4"
+      },
+      {
+        "id": "01KRJR41Y31RGGEVHPH0HQBXMD",
+        "username": "xuancanhit99",
+        "avatarURL": "https://avatars.githubusercontent.com/u/38512755?v=4"
+      },
+      {
+        "id": "01KRPVZAEWWHG9C3J4BBVP6TMC",
+        "username": "souf92i",
+        "avatarURL": "https://avatars.githubusercontent.com/u/8218110?v=4"
+      },
+      {
+        "id": "01KRZ7SPAN0G0WRRB8VJ77DY95",
+        "username": "coolcam2",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65938609?v=4"
+      },
+      {
+        "id": "01KTZ6Y8G2W5DJZATQ25SPS3PW",
+        "username": "lotas1",
+        "avatarURL": "https://avatars.githubusercontent.com/u/60584971?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01HXBSPYXHQCHTX1XZDKPQQK0Y",
+        "username": "Rafael-rgsousa",
+        "avatarURL": "https://avatars.githubusercontent.com/u/12060036?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01JXS8SSX044QGTNPSQVVJAEZQ",
+        "username": "elskow",
+        "avatarURL": "https://avatars.githubusercontent.com/u/103118501?v=4"
+      },
+      {
+        "id": "01KBE6SAVJDZ3J3NJ69F2WEVAD",
+        "username": "Sam-wiz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/112511169?v=4"
+      },
+      {
+        "id": "01KCWM2HADN7GA0NDG76AB3M1G",
+        "username": "natinew77-creator",
+        "avatarURL": "https://avatars.githubusercontent.com/u/228948478?v=4"
+      },
+      {
+        "id": "01KEZHJ4QFDT83N9KW6PP4705V",
+        "username": "GhostDragonAlpha",
+        "avatarURL": "https://avatars.githubusercontent.com/u/143750470?v=4"
+      },
+      {
+        "id": "01KJ5HV4NY4DKDQVFV16T6F0BK",
+        "username": "hruss-software",
+        "avatarURL": "https://avatars.githubusercontent.com/u/227918082?v=4"
+      },
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      },
+      {
+        "id": "01KPKZBZCG1J5C36PMR5WRC6YJ",
+        "username": "budingsoft",
+        "avatarURL": "https://avatars.githubusercontent.com/u/36659585?v=4"
+      },
+      {
+        "id": "01KR9VZV36TZ8XD5W0DMXDZEPX",
+        "username": "acidstorm2024-star",
+        "avatarURL": "https://avatars.githubusercontent.com/u/283478051?v=4"
+      },
+      {
+        "id": "01KRAAG5CY21R3HP7HWYFMAFB5",
+        "username": "dairon2",
+        "avatarURL": "https://avatars.githubusercontent.com/u/122072006?v=4"
+      },
+      {
+        "id": "01KRBJKCJW8MMW0BVSS7G2YZYJ",
+        "username": "hemantrajputt",
+        "avatarURL": "https://avatars.githubusercontent.com/u/104062143?v=4"
+      },
+      {
+        "id": "01KRC3FP0MMGWY8ZAADNACAEHM",
+        "username": "raunaqsingh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/4151636?v=4"
+      },
+      {
+        "id": "01KRCCRP2N6SX1EKY61N88G7A9",
+        "username": "tugayakin",
+        "avatarURL": "https://avatars.githubusercontent.com/u/154616147?v=4"
+      },
+      {
+        "id": "01KRCV0SQZ3H0AE66H608DGZBZ",
+        "username": "HUhonh",
+        "avatarURL": "https://avatars.githubusercontent.com/u/133237397?v=4"
+      },
+      {
+        "id": "01KRCX4SC8NYR911B3KG6DKJVA",
+        "username": "TakoVHS",
+        "avatarURL": "https://avatars.githubusercontent.com/u/184571679?v=4"
+      },
+      {
+        "id": "01KRCZBVGA3GK0M2AX8J6WSA5M",
+        "username": "ZainKazmiii",
+        "avatarURL": "https://avatars.githubusercontent.com/u/111486944?v=4"
+      },
+      {
+        "id": "01KRETCPSVKRQVTSZHHPBP0D95",
+        "username": "neverstopclicking",
+        "avatarURL": "https://avatars.githubusercontent.com/u/284102746?v=4"
+      },
+      {
+        "id": "01KRGX1KF9XZWWNMSJXY6PGAJW",
+        "username": "Vinzz2303",
+        "avatarURL": "https://avatars.githubusercontent.com/u/127033367?v=4"
+      },
+      {
+        "id": "01KRJR41Y31RGGEVHPH0HQBXMD",
+        "username": "xuancanhit99",
+        "avatarURL": "https://avatars.githubusercontent.com/u/38512755?v=4"
+      },
+      {
+        "id": "01KRPVZAEWWHG9C3J4BBVP6TMC",
+        "username": "souf92i",
+        "avatarURL": "https://avatars.githubusercontent.com/u/8218110?v=4"
+      },
+      {
+        "id": "01KRZ7SPAN0G0WRRB8VJ77DY95",
+        "username": "coolcam2",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65938609?v=4"
+      },
+      {
+        "id": "01KTZ6Y8G2W5DJZATQ25SPS3PW",
+        "username": "lotas1",
+        "avatarURL": "https://avatars.githubusercontent.com/u/60584971?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1714318972471,
+    "pendingPrice": {
+      "value": 59000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HWJNZ4HSCD3WJ2XBR88BG47X",
+      "logoURL": "https://avatars.githubusercontent.com/u/20165699?v=4",
+      "url": "https://github.com/typeorm",
+      "name": "typeorm"
+    },
+    "project": {
+      "id": "01HWJNZ4VCDSCGAFQEM5JB4XTM",
+      "url": "https://github.com/typeorm/typeorm",
+      "name": "typeorm",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01KVF9XSZYWYWB798QEBTYQVYD",
+    "title": "OrmUtils.normalizeWhereCriteria() does not implement described default behaviour for invalidWhereValuesBehavior",
+    "url": "https://github.com/typeorm/typeorm/issues/12578",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KVFMB8684H8C5Y61HCRBDPB0",
+        "username": "belljinwo-jpg",
+        "avatarURL": "https://avatars.githubusercontent.com/u/295079290?v=4"
+      },
+      {
+        "id": "01KVJ58EH0KP23GGCQQ7HFVNSY",
+        "username": "zhangsiqiang519",
+        "avatarURL": "https://avatars.githubusercontent.com/u/37611353?v=4"
+      },
+      {
+        "id": "01KVJ9TF16SBEYR9CD0991FKNP",
+        "username": "psremilio",
+        "avatarURL": "https://avatars.githubusercontent.com/u/190022413?v=4"
+      },
+      {
+        "id": "01KVK6VSG8MEY2RKYWMF4MJM5V",
+        "username": "saifsahriar",
+        "avatarURL": "https://avatars.githubusercontent.com/u/119245305?v=4"
+      },
+      {
+        "id": "01KVSQRJQQ659C5WXHGAYSMA9H",
+        "username": "inglevivek",
+        "avatarURL": "https://avatars.githubusercontent.com/u/247591854?v=4"
+      },
+      {
+        "id": "01KVSZYTC9V63HCQW3TSWY16ZC",
+        "username": "Toseef-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65014307?v=4"
+      },
+      {
+        "id": "01KW1HKW685NHMZD6X63XCPTKZ",
+        "username": "cy13002997189cy-ship-it",
+        "avatarURL": "https://avatars.githubusercontent.com/u/297107009?v=4"
+      },
+      {
+        "id": "01KW52RVKPZ5MMGFWTN1SY3QHM",
+        "username": "dadichaoren",
+        "avatarURL": "https://avatars.githubusercontent.com/u/208744444?v=4"
+      },
+      {
+        "id": "01KWB2XMQ7YW8ZH2BYRHTSHA1W",
+        "username": "surprisemxz12321-hash",
+        "avatarURL": "https://avatars.githubusercontent.com/u/267350857?v=4"
+      },
+      {
+        "id": "01KWQBAY2NF2ZTENRX1N5MTSJ0",
+        "username": "codex-mx-abc1ba2382",
+        "avatarURL": "https://avatars.githubusercontent.com/u/299868908?v=4"
+      },
+      {
+        "id": "01KWTE62ENRN702YDV8HK665K9",
+        "username": "lsc325",
+        "avatarURL": "https://avatars.githubusercontent.com/u/168697369?v=4"
+      },
+      {
+        "id": "01KWZQGMXJ9RP2S83JPF5JP4WN",
+        "username": "leo1987820",
+        "avatarURL": "https://avatars.githubusercontent.com/u/290468635?v=4"
+      },
+      {
+        "id": "01KX1WDSASB3T4B380NWP36CRY",
+        "username": "a1478861254-del",
+        "avatarURL": "https://avatars.githubusercontent.com/u/288206693?v=4"
+      },
+      {
+        "id": "01KX4WT90WKFSQ704571NQ6N6H",
+        "username": "alexort3446-hue",
+        "avatarURL": "https://avatars.githubusercontent.com/u/282077310?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KVFMB8684H8C5Y61HCRBDPB0",
+        "username": "belljinwo-jpg",
+        "avatarURL": "https://avatars.githubusercontent.com/u/295079290?v=4"
+      },
+      {
+        "id": "01KVJ58EH0KP23GGCQQ7HFVNSY",
+        "username": "zhangsiqiang519",
+        "avatarURL": "https://avatars.githubusercontent.com/u/37611353?v=4"
+      },
+      {
+        "id": "01KVJ9TF16SBEYR9CD0991FKNP",
+        "username": "psremilio",
+        "avatarURL": "https://avatars.githubusercontent.com/u/190022413?v=4"
+      },
+      {
+        "id": "01KVK6VSG8MEY2RKYWMF4MJM5V",
+        "username": "saifsahriar",
+        "avatarURL": "https://avatars.githubusercontent.com/u/119245305?v=4"
+      },
+      {
+        "id": "01KVSQRJQQ659C5WXHGAYSMA9H",
+        "username": "inglevivek",
+        "avatarURL": "https://avatars.githubusercontent.com/u/247591854?v=4"
+      },
+      {
+        "id": "01KVSZYTC9V63HCQW3TSWY16ZC",
+        "username": "Toseef-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65014307?v=4"
+      },
+      {
+        "id": "01KW1HKW685NHMZD6X63XCPTKZ",
+        "username": "cy13002997189cy-ship-it",
+        "avatarURL": "https://avatars.githubusercontent.com/u/297107009?v=4"
+      },
+      {
+        "id": "01KW52RVKPZ5MMGFWTN1SY3QHM",
+        "username": "dadichaoren",
+        "avatarURL": "https://avatars.githubusercontent.com/u/208744444?v=4"
+      },
+      {
+        "id": "01KWB2XMQ7YW8ZH2BYRHTSHA1W",
+        "username": "surprisemxz12321-hash",
+        "avatarURL": "https://avatars.githubusercontent.com/u/267350857?v=4"
+      },
+      {
+        "id": "01KWQBAY2NF2ZTENRX1N5MTSJ0",
+        "username": "codex-mx-abc1ba2382",
+        "avatarURL": "https://avatars.githubusercontent.com/u/299868908?v=4"
+      },
+      {
+        "id": "01KWTE62ENRN702YDV8HK665K9",
+        "username": "lsc325",
+        "avatarURL": "https://avatars.githubusercontent.com/u/168697369?v=4"
+      },
+      {
+        "id": "01KWZQGMXJ9RP2S83JPF5JP4WN",
+        "username": "leo1987820",
+        "avatarURL": "https://avatars.githubusercontent.com/u/290468635?v=4"
+      },
+      {
+        "id": "01KX1WDSASB3T4B380NWP36CRY",
+        "username": "a1478861254-del",
+        "avatarURL": "https://avatars.githubusercontent.com/u/288206693?v=4"
+      },
+      {
+        "id": "01KX4WT90WKFSQ704571NQ6N6H",
+        "username": "alexort3446-hue",
+        "avatarURL": "https://avatars.githubusercontent.com/u/282077310?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1781851416574,
+    "pendingPrice": {
+      "value": 30000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HWJNZ4HSCD3WJ2XBR88BG47X",
+      "logoURL": "https://avatars.githubusercontent.com/u/20165699?v=4",
+      "url": "https://github.com/typeorm",
+      "name": "typeorm"
+    },
+    "project": {
+      "id": "01HWJNZ4VCDSCGAFQEM5JB4XTM",
+      "url": "https://github.com/typeorm/typeorm",
+      "name": "typeorm",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01HWT26R3S59MS778MAE9786YG",
+    "title": "Problem with storybook-controls of type \"select\"",
+    "url": "https://github.com/storybookjs/storybook/issues/12641",
+    "platform": "GitHub",
+    "featuredBy": "01HS1D85NZ891Z2TA13DQMVR6N",
+    "claimerUsers": [
+      {
+        "id": "01KB9RF1KCB37SYS5BGD1C2MKT",
+        "username": "lau90eth",
+        "avatarURL": "https://avatars.githubusercontent.com/u/122041349?v=4"
+      },
+      {
+        "id": "01KS6TFFKHEMWV593T64985DCK",
+        "username": "WillyRelwitten",
+        "avatarURL": "https://avatars.githubusercontent.com/u/280039203?v=4"
+      },
+      {
+        "id": "01KVSZYTC9V63HCQW3TSWY16ZC",
+        "username": "Toseef-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65014307?v=4"
+      },
+      {
+        "id": "01KW16GXBFZQJREDP07PXNBDJX",
+        "username": "Ranit-dev2004",
+        "avatarURL": "https://avatars.githubusercontent.com/u/154494417?v=4"
+      },
+      {
+        "id": "01KWQ2P2HGY70BJJYAQY9X9D3T",
+        "username": "Haydar061",
+        "avatarURL": "https://avatars.githubusercontent.com/u/194710396?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KB9RF1KCB37SYS5BGD1C2MKT",
+        "username": "lau90eth",
+        "avatarURL": "https://avatars.githubusercontent.com/u/122041349?v=4"
+      },
+      {
+        "id": "01KS6TFFKHEMWV593T64985DCK",
+        "username": "WillyRelwitten",
+        "avatarURL": "https://avatars.githubusercontent.com/u/280039203?v=4"
+      },
+      {
+        "id": "01KVSZYTC9V63HCQW3TSWY16ZC",
+        "username": "Toseef-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/65014307?v=4"
+      },
+      {
+        "id": "01KW16GXBFZQJREDP07PXNBDJX",
+        "username": "Ranit-dev2004",
+        "avatarURL": "https://avatars.githubusercontent.com/u/154494417?v=4"
+      },
+      {
+        "id": "01KWQ2P2HGY70BJJYAQY9X9D3T",
+        "username": "Haydar061",
+        "avatarURL": "https://avatars.githubusercontent.com/u/194710396?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1714566684793,
+    "pendingPrice": {
+      "value": 26300,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HWT26Q5ZDDD70ZAXK4C6VQKE",
+      "logoURL": "https://avatars.githubusercontent.com/u/22632046?v=4",
+      "url": "https://github.com/storybookjs",
+      "name": "storybookjs"
+    },
+    "project": {
+      "id": "01HWT26QAVG0ZHNSARE2WV831Y",
+      "url": "https://github.com/storybookjs/storybook",
+      "name": "storybook",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01K6K4YTSWT7XF53GM3KCTBG7S",
+    "title": "Tray icon should have an orange dot indicator",
+    "url": "https://github.com/aueangpanit/electron-template/issues/1",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01JG0N9QDHTYFM4XA198MJ4VYS",
+        "username": "RS-labhub",
+        "avatarURL": "https://avatars.githubusercontent.com/u/117426013?v=4"
+      },
+      {
+        "id": "01K6QMEAJPRFWCW3ZK92ZYT9RW",
+        "username": "Mohitkumar6122",
+        "avatarURL": "https://avatars.githubusercontent.com/u/47894634?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01JG0N9QDHTYFM4XA198MJ4VYS",
+        "username": "RS-labhub",
+        "avatarURL": "https://avatars.githubusercontent.com/u/117426013?v=4"
+      },
+      {
+        "id": "01K6QMEAJPRFWCW3ZK92ZYT9RW",
+        "username": "Mohitkumar6122",
+        "avatarURL": "https://avatars.githubusercontent.com/u/47894634?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1759431846716,
+    "pendingPrice": {
+      "value": 10000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01K6K4YTFPXJ7750PHMJKGG1X1",
+      "logoURL": "https://avatars.githubusercontent.com/u/7490902?v=4",
+      "url": "https://github.com/aueangpanit",
+      "name": "aueangpanit"
+    },
+    "project": {
+      "id": "01K6K4YTMM1ZWHFSBPCWNM30W2",
+      "url": "https://github.com/aueangpanit/electron-template",
+      "name": "electron-template",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01HWAKVG8489QKN1NEGQA2RJC4",
+    "title": "Supply-chain: Review or rewrite the busboy library.",
+    "url": "https://github.com/bogeeee/restfuncs/issues/6",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      },
+      {
+        "id": "01KS42TYE7Y1HAYFGXTB7NMVNN",
+        "username": "onchito-walks",
+        "avatarURL": "https://avatars.githubusercontent.com/u/283618237?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01JDPYYPWXEQ8GM9WR96Q2N5TN",
+        "username": "sonpt-afk",
+        "avatarURL": "https://avatars.githubusercontent.com/u/78460399?v=4"
+      },
+      {
+        "id": "01JF23XM3TAN3YHP7K045A9M8Z",
+        "username": "AbdellahGo",
+        "avatarURL": "https://avatars.githubusercontent.com/u/131396055?v=4"
+      },
+      {
+        "id": "01JG1ZSAZFFEST8H4MY66AY36H",
+        "username": "IdgyMyName",
+        "avatarURL": "https://avatars.githubusercontent.com/u/192906044?v=4"
+      },
+      {
+        "id": "01JYX56V2K3DTQC48ZCYRMV1SA",
+        "username": "satvik2131",
+        "avatarURL": "https://avatars.githubusercontent.com/u/59243339?v=4"
+      },
+      {
+        "id": "01KK15QWAJRK5W2PVWDRJKNGCV",
+        "username": "eduardtorosya07",
+        "avatarURL": "https://avatars.githubusercontent.com/u/247570967?v=4"
+      },
+      {
+        "id": "01KKP9S0HQAK42THNT7HNC4W7T",
+        "username": "Waryjustice",
+        "avatarURL": "https://avatars.githubusercontent.com/u/204159013?v=4"
+      },
+      {
+        "id": "01KKYTYQANQGE945SQHCCQ4K45",
+        "username": "KaustubhOG",
+        "avatarURL": "https://avatars.githubusercontent.com/u/218815202?v=4"
+      },
+      {
+        "id": "01KMPNS22YHABCYF1YS60GFGWD",
+        "username": "sidneisilvadev",
+        "avatarURL": "https://avatars.githubusercontent.com/u/42078612?v=4"
+      },
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      },
+      {
+        "id": "01KS42TYE7Y1HAYFGXTB7NMVNN",
+        "username": "onchito-walks",
+        "avatarURL": "https://avatars.githubusercontent.com/u/283618237?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1714048319748,
+    "pendingPrice": {
+      "value": 9000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HV9QPPGCDMJQKMWMTEERNXGG",
+      "logoURL": "https://avatars.githubusercontent.com/u/118847342?v=4",
+      "url": "https://github.com/bogeeee",
+      "name": "bogeeee"
+    },
+    "project": {
+      "id": "01HV9QPPNPGC7SMQX9NYMCFQGF",
+      "url": "https://github.com/bogeeee/restfuncs",
+      "name": "restfuncs",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01HTN11YX5NYSS7GGB3SHNCJSS",
+    "title": "Open target URLs not in PWA but in default browser",
+    "url": "https://github.com/trovu/trovu/issues/329",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01HVPW9GDTZ9C42XTB5PE26EAG",
+        "username": "MindfulPol",
+        "avatarURL": "https://avatars.githubusercontent.com/u/25509514?v=4"
+      },
+      {
+        "id": "01HVZ4KMTSG210DJXSZVWBHK3P",
+        "username": "iamnomercy64",
+        "avatarURL": "https://avatars.githubusercontent.com/u/167659492?v=4"
+      },
+      {
+        "id": "01JDEDGFKQ0JEZP537PR5ZXA4Z",
+        "username": "krshhn",
+        "avatarURL": "https://avatars.githubusercontent.com/u/129416344?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01K4CT5GJDG7DWFC6SMJA5HAQR",
+        "username": "sg-surya",
+        "avatarURL": "https://avatars.githubusercontent.com/u/128205329?v=4"
+      },
+      {
+        "id": "01KHC5YRBTWTE35FXKW3G1M6EN",
+        "username": "Jhon-Crow",
+        "avatarURL": "https://avatars.githubusercontent.com/u/133867474?v=4"
+      },
+      {
+        "id": "01KK4KMJDDANY138KEZK3JTM1T",
+        "username": "1028bc",
+        "avatarURL": "https://avatars.githubusercontent.com/u/266190512?v=4"
+      },
+      {
+        "id": "01KMNZ3VPP0RSRZ37HWDT98R9C",
+        "username": "codejupiter",
+        "avatarURL": "https://avatars.githubusercontent.com/u/143454364?v=4"
+      },
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KRAFS0ZG5DVEXWEJB3DV3TFM",
+        "username": "Abergelnathan",
+        "avatarURL": "https://avatars.githubusercontent.com/u/6845391?v=4"
+      },
+      {
+        "id": "01KRB6ZZVQ732118C2NHXAQTZ7",
+        "username": "JjCyberz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/107339077?v=4"
+      },
+      {
+        "id": "01KRBM8KHKY8ETHHWET0298MP4",
+        "username": "diegog956",
+        "avatarURL": "https://avatars.githubusercontent.com/u/119092215?v=4"
+      },
+      {
+        "id": "01KRQVM8RT008FHX33AFA0NARS",
+        "username": "NguyenTrung-3107",
+        "avatarURL": "https://avatars.githubusercontent.com/u/81838362?v=4"
+      },
+      {
+        "id": "01KS3NA2SD2KSZ122Q7VQWTGEK",
+        "username": "iyop666",
+        "avatarURL": "https://avatars.githubusercontent.com/u/134927879?v=4"
+      },
+      {
+        "id": "01KS675K9578CG36KCP7KC5PHC",
+        "username": "marleneborgesveiga95-a11y",
+        "avatarURL": "https://avatars.githubusercontent.com/u/286794976?v=4"
+      },
+      {
+        "id": "01KSHT2FAQ3BARQBKFKZWQ4CVA",
+        "username": "arjunannamalai",
+        "avatarURL": "https://avatars.githubusercontent.com/u/87747431?v=4"
+      },
+      {
+        "id": "01KT8F2M038R30YN93FN6JBKR4",
+        "username": "LamX-05",
+        "avatarURL": "https://avatars.githubusercontent.com/u/180555432?v=4"
+      },
+      {
+        "id": "01KW81BQZ2HG2WT3494KBFZTWK",
+        "username": "aniruddha-verma",
+        "avatarURL": "https://avatars.githubusercontent.com/u/89046355?v=4"
+      },
+      {
+        "id": "01KWSSVZXH98AHQSD4VGS20XWA",
+        "username": "mdsanzidhasnat",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191873432?v=4"
+      },
+      {
+        "id": "01KX90CR27TTH7GCMSNNR2T59Y",
+        "username": "mohamad-shafeez",
+        "avatarURL": "https://avatars.githubusercontent.com/u/79343931?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01HVKTTCY7VMG2TFX2F5BG65G0",
+        "username": "EstephanoDev",
+        "avatarURL": "https://avatars.githubusercontent.com/u/151201555?v=4"
+      },
+      {
+        "id": "01HVMF8AE61FB39M1HJQH19EZW",
+        "username": "DyxBenjamin",
+        "avatarURL": "https://avatars.githubusercontent.com/u/84478481?v=4"
+      },
+      {
+        "id": "01HVMHAW1GB14B1NTAVNXW5QKY",
+        "username": "torresgol10",
+        "avatarURL": "https://avatars.githubusercontent.com/u/40922354?v=4"
+      },
+      {
+        "id": "01HVPW9GDTZ9C42XTB5PE26EAG",
+        "username": "MindfulPol",
+        "avatarURL": "https://avatars.githubusercontent.com/u/25509514?v=4"
+      },
+      {
+        "id": "01HVYX5CJG0R5PDJVQS5KFBY60",
+        "username": "Ky210299",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149157122?v=4"
+      },
+      {
+        "id": "01HVZ4KMTSG210DJXSZVWBHK3P",
+        "username": "iamnomercy64",
+        "avatarURL": "https://avatars.githubusercontent.com/u/167659492?v=4"
+      },
+      {
+        "id": "01JD6JRBRY9XM5SY1VPHVZ8ABF",
+        "username": "optimusprimecode",
+        "avatarURL": "https://avatars.githubusercontent.com/u/189195604?v=4"
+      },
+      {
+        "id": "01JDEDGFKQ0JEZP537PR5ZXA4Z",
+        "username": "krshhn",
+        "avatarURL": "https://avatars.githubusercontent.com/u/129416344?v=4"
+      },
+      {
+        "id": "01JEDCAAN4TP0YNM7QV34HX4DB",
+        "username": "hellozzm",
+        "avatarURL": "https://avatars.githubusercontent.com/u/15192382?v=4"
+      },
+      {
+        "id": "01JEWCMK9WCQZSFTSY7V5TT3KE",
+        "username": "arc-bluezy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191427280?v=4"
+      },
+      {
+        "id": "01JF01SE6H26W172AHMHT3GQCT",
+        "username": "hmohammed",
+        "avatarURL": "https://avatars.githubusercontent.com/u/512674?v=4"
+      },
+      {
+        "id": "01JHN89MVJ23X6BEK0YMDRN9WK",
+        "username": "rahul-754",
+        "avatarURL": "https://avatars.githubusercontent.com/u/161922950?v=4"
+      },
+      {
+        "id": "01JQEQHGZC18VFS258AEV88R1M",
+        "username": "Saboor100",
+        "avatarURL": "https://avatars.githubusercontent.com/u/185671776?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01K2YT721XBANMFV6CJZ3J8K9H",
+        "username": "ishanraj953",
+        "avatarURL": "https://avatars.githubusercontent.com/u/179708459?v=4"
+      },
+      {
+        "id": "01K4CT5GJDG7DWFC6SMJA5HAQR",
+        "username": "sg-surya",
+        "avatarURL": "https://avatars.githubusercontent.com/u/128205329?v=4"
+      },
+      {
+        "id": "01K74VRBH0TH3EYHZ2S4JVS2PD",
+        "username": "ava-sig",
+        "avatarURL": "https://avatars.githubusercontent.com/u/3773948?v=4"
+      },
+      {
+        "id": "01KAFVEQHMHYRV0QHJ6T0NBHD2",
+        "username": "Qwerty-2308",
+        "avatarURL": "https://avatars.githubusercontent.com/u/220698518?v=4"
+      },
+      {
+        "id": "01KGJ6EZ4Q55C90STAJ75Y5WPP",
+        "username": "imsurajj",
+        "avatarURL": "https://avatars.githubusercontent.com/u/136044973?v=4"
+      },
+      {
+        "id": "01KHC5YRBTWTE35FXKW3G1M6EN",
+        "username": "Jhon-Crow",
+        "avatarURL": "https://avatars.githubusercontent.com/u/133867474?v=4"
+      },
+      {
+        "id": "01KK4KMJDDANY138KEZK3JTM1T",
+        "username": "1028bc",
+        "avatarURL": "https://avatars.githubusercontent.com/u/266190512?v=4"
+      },
+      {
+        "id": "01KMNZ3VPP0RSRZ37HWDT98R9C",
+        "username": "codejupiter",
+        "avatarURL": "https://avatars.githubusercontent.com/u/143454364?v=4"
+      },
+      {
+        "id": "01KMPNS22YHABCYF1YS60GFGWD",
+        "username": "sidneisilvadev",
+        "avatarURL": "https://avatars.githubusercontent.com/u/42078612?v=4"
+      },
+      {
+        "id": "01KNGKB2FX2N712PHBP2C1MWEZ",
+        "username": "mitchellecm7",
+        "avatarURL": "https://avatars.githubusercontent.com/u/149884682?v=4"
+      },
+      {
+        "id": "01KRAFS0ZG5DVEXWEJB3DV3TFM",
+        "username": "Abergelnathan",
+        "avatarURL": "https://avatars.githubusercontent.com/u/6845391?v=4"
+      },
+      {
+        "id": "01KRB6ZZVQ732118C2NHXAQTZ7",
+        "username": "JjCyberz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/107339077?v=4"
+      },
+      {
+        "id": "01KRBM8KHKY8ETHHWET0298MP4",
+        "username": "diegog956",
+        "avatarURL": "https://avatars.githubusercontent.com/u/119092215?v=4"
+      },
+      {
+        "id": "01KRQVM8RT008FHX33AFA0NARS",
+        "username": "NguyenTrung-3107",
+        "avatarURL": "https://avatars.githubusercontent.com/u/81838362?v=4"
+      },
+      {
+        "id": "01KS3NA2SD2KSZ122Q7VQWTGEK",
+        "username": "iyop666",
+        "avatarURL": "https://avatars.githubusercontent.com/u/134927879?v=4"
+      },
+      {
+        "id": "01KS675K9578CG36KCP7KC5PHC",
+        "username": "marleneborgesveiga95-a11y",
+        "avatarURL": "https://avatars.githubusercontent.com/u/286794976?v=4"
+      },
+      {
+        "id": "01KSHT2FAQ3BARQBKFKZWQ4CVA",
+        "username": "arjunannamalai",
+        "avatarURL": "https://avatars.githubusercontent.com/u/87747431?v=4"
+      },
+      {
+        "id": "01KT8F2M038R30YN93FN6JBKR4",
+        "username": "LamX-05",
+        "avatarURL": "https://avatars.githubusercontent.com/u/180555432?v=4"
+      },
+      {
+        "id": "01KW81BQZ2HG2WT3494KBFZTWK",
+        "username": "aniruddha-verma",
+        "avatarURL": "https://avatars.githubusercontent.com/u/89046355?v=4"
+      },
+      {
+        "id": "01KWSSVZXH98AHQSD4VGS20XWA",
+        "username": "mdsanzidhasnat",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191873432?v=4"
+      },
+      {
+        "id": "01KX90CR27TTH7GCMSNNR2T59Y",
+        "username": "mohamad-shafeez",
+        "avatarURL": "https://avatars.githubusercontent.com/u/79343931?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript",
+      "JavaScript",
+      "HTML"
+    ],
+    "createdAt": 1712250223525,
+    "pendingPrice": {
+      "value": 7000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HTN0RBWRA30CQQ9Y96J22VAD",
+      "logoURL": "https://avatars.githubusercontent.com/u/38375402?v=4",
+      "url": "https://github.com/trovu",
+      "name": "trovu"
+    },
+    "project": {
+      "id": "01HTN0RC01363712C9MHZC55DR",
+      "url": "https://github.com/trovu/trovu",
+      "name": "trovu",
+      "isPublic": true,
+      "isBotInstalled": true
+    }
+  },
+  {
+    "id": "01K9AEB05K6XCMKMAVNB0P0FQ8",
+    "title": "Image resize",
+    "url": "https://github.com/ArcaneCircle/pixelsocial/issues/3",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01K3ZT7ZBF8W27M6RSMTZ32XMR",
+        "username": "Aqil-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/172523355?v=4"
+      },
+      {
+        "id": "01KSSFKAVP3K9ETWNESHXK8K4N",
+        "username": "AzzieRobel",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191259318?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01K3ZT7ZBF8W27M6RSMTZ32XMR",
+        "username": "Aqil-Ahmad",
+        "avatarURL": "https://avatars.githubusercontent.com/u/172523355?v=4"
+      },
+      {
+        "id": "01KSSFKAVP3K9ETWNESHXK8K4N",
+        "username": "AzzieRobel",
+        "avatarURL": "https://avatars.githubusercontent.com/u/191259318?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "createdAt": 1762360918195,
+    "pendingPrice": {
+      "value": 7000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01K9AEAZWS38JFKEM5Q954QEBS",
+      "logoURL": "https://avatars.githubusercontent.com/u/106939109?v=4",
+      "url": "https://github.com/ArcaneCircle",
+      "name": "ArcaneCircle"
+    },
+    "project": {
+      "id": "01K9AEAZZA4J72FBRQ5FNTS1RX",
+      "url": "https://github.com/ArcaneCircle/pixelsocial",
+      "name": "pixelsocial",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01HWT2MKE4GWPJXDPMAFEAHHHE",
+    "title": "[V4] QueryEngine - deleteMany not working when filter by nested entity.",
+    "url": "https://github.com/strapi/strapi/issues/11998",
+    "platform": "GitHub",
+    "featuredBy": "01HS1D85NZ891Z2TA13DQMVR6N",
+    "claimerUsers": [
+      {
+        "id": "01K9WFP5XN4B5MH7248EQP84AY",
+        "username": "sudo-verse",
+        "avatarURL": "https://avatars.githubusercontent.com/u/58439952?v=4"
+      },
+      {
+        "id": "01KS6TFFKHEMWV593T64985DCK",
+        "username": "WillyRelwitten",
+        "avatarURL": "https://avatars.githubusercontent.com/u/280039203?v=4"
+      },
+      {
+        "id": "01KWR1MEJCBFBKW4FXKFGEZJ1P",
+        "username": "nerocorp935",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271785045?v=4"
+      },
+      {
+        "id": "01KYKDQB02J7A4R2VGMAMG0SGZ",
+        "username": "Sasireddy001",
+        "avatarURL": "https://avatars.githubusercontent.com/u/109756237?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01K9WFP5XN4B5MH7248EQP84AY",
+        "username": "sudo-verse",
+        "avatarURL": "https://avatars.githubusercontent.com/u/58439952?v=4"
+      },
+      {
+        "id": "01KS6TFFKHEMWV593T64985DCK",
+        "username": "WillyRelwitten",
+        "avatarURL": "https://avatars.githubusercontent.com/u/280039203?v=4"
+      },
+      {
+        "id": "01KWR1MEJCBFBKW4FXKFGEZJ1P",
+        "username": "nerocorp935",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271785045?v=4"
+      },
+      {
+        "id": "01KYKDQB02J7A4R2VGMAMG0SGZ",
+        "username": "Sasireddy001",
+        "avatarURL": "https://avatars.githubusercontent.com/u/109756237?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1714567138756,
+    "pendingPrice": {
+      "value": 7000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HWT2MJQAK1F893CYNSJ06Y1A",
+      "logoURL": "https://avatars.githubusercontent.com/u/19872173?v=4",
+      "url": "https://github.com/strapi",
+      "name": "strapi"
+    },
+    "project": {
+      "id": "01HWT2MJTE64ZRHTWN4P62ANR4",
+      "url": "https://github.com/strapi/strapi",
+      "name": "strapi",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01JARC75G44M6EQCJCR1DTBHD6",
+    "title": "[BUG] Internal Server Errors still shows success toast",
+    "url": "https://github.com/formbricks/formbricks/issues/3302",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01K15S9GG86ADH23PB0E3A06RE",
+        "username": "Ankit-Matth",
+        "avatarURL": "https://avatars.githubusercontent.com/u/146843890?v=4"
+      },
+      {
+        "id": "01KH1MW3DRVFV1KVSRKR3X9Z1Y",
+        "username": "AndresAIFR",
+        "avatarURL": "https://avatars.githubusercontent.com/u/212480098?v=4"
+      },
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01K15S9GG86ADH23PB0E3A06RE",
+        "username": "Ankit-Matth",
+        "avatarURL": "https://avatars.githubusercontent.com/u/146843890?v=4"
+      },
+      {
+        "id": "01KH1MW3DRVFV1KVSRKR3X9Z1Y",
+        "username": "AndresAIFR",
+        "avatarURL": "https://avatars.githubusercontent.com/u/212480098?v=4"
+      },
+      {
+        "id": "01KMZ4AG0VGXAQJKZ6BA6GHB34",
+        "username": "Robert0303-C",
+        "avatarURL": "https://avatars.githubusercontent.com/u/271962523?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1729542460932,
+    "pendingPrice": {
+      "value": 6000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01JARC753DYCQ6DAXE528H6HYY",
+      "logoURL": "https://avatars.githubusercontent.com/u/105877416?v=4",
+      "url": "https://github.com/formbricks",
+      "name": "formbricks"
+    },
+    "project": {
+      "id": "01JARC75AVDFHADBN5FB99KNZT",
+      "url": "https://github.com/formbricks/formbricks",
+      "name": "formbricks",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01J8898W2WES9F4FJ57GDG0BYS",
+    "title": "incorrect code-hinter header text",
+    "url": "https://github.com/ToolJet/ToolJet/issues/6655",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01JDMB8YEA1RSWGBS30VAGMBK6",
+        "username": "zeeshan1212",
+        "avatarURL": "https://avatars.githubusercontent.com/u/26131219?v=4"
+      },
+      {
+        "id": "01JDQ6P5J5MBZHFMCBKVQT9VTA",
+        "username": "DeepakStarkz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/34602640?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01KJNH03WRT9F2NTH8AMM901V9",
+        "username": "tommythekatzo-cell",
+        "avatarURL": "https://avatars.githubusercontent.com/u/262586028?v=4"
+      },
+      {
+        "id": "01KSXR85C9GG4XRYKAYWFJWEJQ",
+        "username": "neohan2026",
+        "avatarURL": "https://avatars.githubusercontent.com/u/289236649?v=4"
+      },
+      {
+        "id": "01KVBRH489070VE7QYVT0GK95H",
+        "username": "Fred0104",
+        "avatarURL": "https://avatars.githubusercontent.com/u/74713183?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01JDMB8YEA1RSWGBS30VAGMBK6",
+        "username": "zeeshan1212",
+        "avatarURL": "https://avatars.githubusercontent.com/u/26131219?v=4"
+      },
+      {
+        "id": "01JDQ6P5J5MBZHFMCBKVQT9VTA",
+        "username": "DeepakStarkz",
+        "avatarURL": "https://avatars.githubusercontent.com/u/34602640?v=4"
+      },
+      {
+        "id": "01JV2R9578WSGK8RC45D3GQNVY",
+        "username": "TheodorNEngoy",
+        "avatarURL": "https://avatars.githubusercontent.com/u/140903820?v=4"
+      },
+      {
+        "id": "01KJNH03WRT9F2NTH8AMM901V9",
+        "username": "tommythekatzo-cell",
+        "avatarURL": "https://avatars.githubusercontent.com/u/262586028?v=4"
+      },
+      {
+        "id": "01KSXR85C9GG4XRYKAYWFJWEJQ",
+        "username": "neohan2026",
+        "avatarURL": "https://avatars.githubusercontent.com/u/289236649?v=4"
+      },
+      {
+        "id": "01KVBRH489070VE7QYVT0GK95H",
+        "username": "Fred0104",
+        "avatarURL": "https://avatars.githubusercontent.com/u/74713183?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "createdAt": 1726855016540,
+    "pendingPrice": {
+      "value": 4500,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01J8898VQSM4RPPZ54KEAKX2TN",
+      "logoURL": "https://avatars.githubusercontent.com/u/82193554?v=4",
+      "url": "https://github.com/ToolJet",
+      "name": "ToolJet"
+    },
+    "project": {
+      "id": "01J8898VVFBFPGD138A79P08SY",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "name": "ToolJet",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01KT0PSXD0JZ4RRQW361CD36R8",
+    "title": "[Bounty] $20 - Add French as a supported language",
+    "url": "https://github.com/Opire/docs/issues/27",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01KT0AJXC903ZJ7EWCZQCRNZ0Y",
+        "username": "loigaak",
+        "avatarURL": "https://avatars.githubusercontent.com/u/10124794?v=4"
+      },
+      {
+        "id": "01KX01M72M06P63D1CH57DJ4JQ",
+        "username": "Lanhubs",
+        "avatarURL": "https://avatars.githubusercontent.com/u/67032769?v=4"
+      },
+      {
+        "id": "01KY1TR8XQ20P87WDP03RP2EV1",
+        "username": "ma-1119",
+        "avatarURL": "https://avatars.githubusercontent.com/u/307386328?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01KT0AJXC903ZJ7EWCZQCRNZ0Y",
+        "username": "loigaak",
+        "avatarURL": "https://avatars.githubusercontent.com/u/10124794?v=4"
+      },
+      {
+        "id": "01KX01M72M06P63D1CH57DJ4JQ",
+        "username": "Lanhubs",
+        "avatarURL": "https://avatars.githubusercontent.com/u/67032769?v=4"
+      },
+      {
+        "id": "01KY1TR8XQ20P87WDP03RP2EV1",
+        "username": "ma-1119",
+        "avatarURL": "https://avatars.githubusercontent.com/u/307386328?v=4"
+      },
+      {
+        "id": "01KZ4RFEGTCSX1T4MX44WFZJF0",
+        "username": "uytyutu",
+        "avatarURL": "https://avatars.githubusercontent.com/u/299312844?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "MDX",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Makefile"
+    ],
+    "createdAt": 1780287862177,
+    "pendingPrice": {
+      "value": 4000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HS1D85PJD6YCE6VDZXM11KG7",
+      "logoURL": "https://avatars.githubusercontent.com/u/156509514?v=4",
+      "url": "https://github.com/Opire",
+      "name": "Opire"
+    },
+    "project": {
+      "id": "01HS1D85VMSNQ1MH719S0AV6C6",
+      "url": "https://github.com/Opire/docs",
+      "name": "docs",
+      "isPublic": true,
+      "isBotInstalled": true
+    }
+  },
+  {
+    "id": "01HS1E49GE7BKN2S8ESVCEE56V",
+    "title": "Add French as a supported language",
+    "url": "https://github.com/Opire/docs/issues/2",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01HTHJ6KB1889MCJDM2APMRJX1",
+        "username": "ivanfernandez2646",
+        "avatarURL": "https://avatars.githubusercontent.com/u/55183734?v=4"
+      },
+      {
+        "id": "01KXHNBEGYZZSS7QNA3PJ3ZHCG",
+        "username": "betahouse422-design",
+        "avatarURL": "https://avatars.githubusercontent.com/u/279293774?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01HSHHXVCEGW1HANYQJJ8ZF6JG",
+        "username": "TronSkywalker",
+        "avatarURL": "https://avatars.githubusercontent.com/u/21985221?v=4"
+      },
+      {
+        "id": "01HTHJ6KB1889MCJDM2APMRJX1",
+        "username": "ivanfernandez2646",
+        "avatarURL": "https://avatars.githubusercontent.com/u/55183734?v=4"
+      },
+      {
+        "id": "01KXHNBEGYZZSS7QNA3PJ3ZHCG",
+        "username": "betahouse422-design",
+        "avatarURL": "https://avatars.githubusercontent.com/u/279293774?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "MDX",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Makefile"
+    ],
+    "createdAt": 1710519100942,
+    "pendingPrice": {
+      "value": 4000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01HS1D85PJD6YCE6VDZXM11KG7",
+      "logoURL": "https://avatars.githubusercontent.com/u/156509514?v=4",
+      "url": "https://github.com/Opire",
+      "name": "Opire"
+    },
+    "project": {
+      "id": "01HS1D85VMSNQ1MH719S0AV6C6",
+      "url": "https://github.com/Opire/docs",
+      "name": "docs",
+      "isPublic": true,
+      "isBotInstalled": true
+    }
+  },
+  {
+    "id": "01JH00AXGKW2B660P4QE078RKC",
+    "title": "Nest js icons",
+    "url": "https://github.com/tal7aouy/vscode-icons/issues/87",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [
+      {
+        "id": "01JHQ441N2WFNEX46CN4XVWN71",
+        "username": "ArtificialXDev",
+        "avatarURL": "https://avatars.githubusercontent.com/u/98838596?v=4"
+      }
+    ],
+    "tryingUsers": [
+      {
+        "id": "01JHQ441N2WFNEX46CN4XVWN71",
+        "username": "ArtificialXDev",
+        "avatarURL": "https://avatars.githubusercontent.com/u/98838596?v=4"
+      }
+    ],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1736240887315,
+    "pendingPrice": {
+      "value": 2000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01JERZJP0J4FA57AMKJ66SC4EH",
+      "logoURL": "https://avatars.githubusercontent.com/u/79597452?v=4",
+      "url": "https://github.com/pwvux",
+      "name": "pwvux"
+    },
+    "project": {
+      "id": "01JERZJS1PMTNX1MFG2QK1CZHZ",
+      "url": "https://github.com/m4zexyz/vscode-icons",
+      "name": "vscode-icons",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  },
+  {
+    "id": "01KYT29FYNNNHQZDQF3QE5TQNE",
+    "title": "$5 Reward: find a non-publicly-listed Mexican RSS feed for SASMEX",
+    "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1",
+    "platform": "GitHub",
+    "featuredBy": null,
+    "claimerUsers": [],
+    "tryingUsers": [],
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "createdAt": 1785433735125,
+    "pendingPrice": {
+      "value": 2000,
+      "unit": "USD_CENT"
+    },
+    "organization": {
+      "id": "01KYT29FTPNEC5GSD79YQ799NZ",
+      "logoURL": "https://avatars.githubusercontent.com/u/204522697?v=4",
+      "url": "https://github.com/Vicentegg4212",
+      "name": "Vicentegg4212"
+    },
+    "project": {
+      "id": "01KYT29FVF9FX5JYK9GVYGJJD1",
+      "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty",
+      "name": "sasmex-rss-bounty",
+      "isPublic": true,
+      "isBotInstalled": false
+    }
+  }
+]
