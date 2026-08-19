@@ -1,0 +1,254 @@
+[
+  {
+    "title": "[BOUNTY] Kickama #304 - deterministic data seed ($50)",
+    "url": "https://github.com/lb1192176991-lab/zeroeye/issues/2",
+    "priceUSD": 100100,
+    "trying": 11,
+    "claimed": 9,
+    "programmingLanguages": [
+      "TypeScript",
+      "Rust",
+      "Python"
+    ],
+    "organization": "lb1192176991-lab",
+    "project": "zeroeye",
+    "botInstalled": true,
+    "createdAt": 1783184091190
+  },
+  {
+    "title": "Donation/funding for german language",
+    "url": "https://github.com/hexgrad/kokoro/issues/290",
+    "priceUSD": 2770,
+    "trying": 10,
+    "claimed": 10,
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "organization": "hexgrad",
+    "project": "kokoro",
+    "botInstalled": false,
+    "createdAt": 1765902014500
+  },
+  {
+    "title": "[Test] Windows Voice hook verification",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/932",
+    "priceUSD": 1500,
+    "trying": 1,
+    "claimed": 1,
+    "programmingLanguages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "organization": "Ikalus1988",
+    "project": "MisakaNet",
+    "botInstalled": true,
+    "createdAt": 1786561328598
+  },
+  {
+    "title": "Migration generation drops and creates columns instead of altering resulting in data loss",
+    "url": "https://github.com/typeorm/typeorm/issues/3357",
+    "priceUSD": 590,
+    "trying": 23,
+    "claimed": 23,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "typeorm",
+    "project": "typeorm",
+    "botInstalled": false,
+    "createdAt": 1714318972471
+  },
+  {
+    "title": "OrmUtils.normalizeWhereCriteria() does not implement described default behaviour for invalidWhereValuesBehavior",
+    "url": "https://github.com/typeorm/typeorm/issues/12578",
+    "priceUSD": 300,
+    "trying": 15,
+    "claimed": 15,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "typeorm",
+    "project": "typeorm",
+    "botInstalled": false,
+    "createdAt": 1781851416574
+  },
+  {
+    "title": "Problem with storybook-controls of type \"select\"",
+    "url": "https://github.com/storybookjs/storybook/issues/12641",
+    "priceUSD": 263,
+    "trying": 5,
+    "claimed": 5,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "storybookjs",
+    "project": "storybook",
+    "botInstalled": false,
+    "createdAt": 1714566684793
+  },
+  {
+    "title": "Tray icon should have an orange dot indicator",
+    "url": "https://github.com/aueangpanit/electron-template/issues/1",
+    "priceUSD": 100,
+    "trying": 2,
+    "claimed": 2,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "aueangpanit",
+    "project": "electron-template",
+    "botInstalled": false,
+    "createdAt": 1759431846716
+  },
+  {
+    "title": "Supply-chain: Review or rewrite the busboy library.",
+    "url": "https://github.com/bogeeee/restfuncs/issues/6",
+    "priceUSD": 90,
+    "trying": 10,
+    "claimed": 2,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "bogeeee",
+    "project": "restfuncs",
+    "botInstalled": false,
+    "createdAt": 1714048319748
+  },
+  {
+    "title": "[V4] QueryEngine - deleteMany not working when filter by nested entity.",
+    "url": "https://github.com/strapi/strapi/issues/11998",
+    "priceUSD": 70,
+    "trying": 4,
+    "claimed": 4,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "strapi",
+    "project": "strapi",
+    "botInstalled": false,
+    "createdAt": 1714567138756
+  },
+  {
+    "title": "Image resize",
+    "url": "https://github.com/ArcaneCircle/pixelsocial/issues/3",
+    "priceUSD": 70,
+    "trying": 2,
+    "claimed": 2,
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "organization": "ArcaneCircle",
+    "project": "pixelsocial",
+    "botInstalled": false,
+    "createdAt": 1762360918195
+  },
+  {
+    "title": "Open target URLs not in PWA but in default browser",
+    "url": "https://github.com/trovu/trovu/issues/329",
+    "priceUSD": 70,
+    "trying": 35,
+    "claimed": 20,
+    "programmingLanguages": [
+      "TypeScript",
+      "JavaScript",
+      "HTML"
+    ],
+    "organization": "trovu",
+    "project": "trovu",
+    "botInstalled": true,
+    "createdAt": 1712250223525
+  },
+  {
+    "title": "[BUG] Internal Server Errors still shows success toast",
+    "url": "https://github.com/formbricks/formbricks/issues/3302",
+    "priceUSD": 60,
+    "trying": 3,
+    "claimed": 3,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "formbricks",
+    "project": "formbricks",
+    "botInstalled": false,
+    "createdAt": 1729542460932
+  },
+  {
+    "title": "incorrect code-hinter header text",
+    "url": "https://github.com/ToolJet/ToolJet/issues/6655",
+    "priceUSD": 45,
+    "trying": 6,
+    "claimed": 6,
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "organization": "ToolJet",
+    "project": "ToolJet",
+    "botInstalled": false,
+    "createdAt": 1726855016540
+  },
+  {
+    "title": "Add French as a supported language",
+    "url": "https://github.com/Opire/docs/issues/2",
+    "priceUSD": 40,
+    "trying": 3,
+    "claimed": 2,
+    "programmingLanguages": [
+      "MDX",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Makefile"
+    ],
+    "organization": "Opire",
+    "project": "docs",
+    "botInstalled": true,
+    "createdAt": 1710519100942
+  },
+  {
+    "title": "[Bounty] $20 - Add French as a supported language",
+    "url": "https://github.com/Opire/docs/issues/27",
+    "priceUSD": 40,
+    "trying": 4,
+    "claimed": 3,
+    "programmingLanguages": [
+      "MDX",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Makefile"
+    ],
+    "organization": "Opire",
+    "project": "docs",
+    "botInstalled": true,
+    "createdAt": 1780287862177
+  },
+  {
+    "title": "$5 Reward: find a non-publicly-listed Mexican RSS feed for SASMEX",
+    "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1",
+    "priceUSD": 20,
+    "trying": 0,
+    "claimed": 0,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "Vicentegg4212",
+    "project": "sasmex-rss-bounty",
+    "botInstalled": false,
+    "createdAt": 1785433735125
+  },
+  {
+    "title": "Nest js icons",
+    "url": "https://github.com/tal7aouy/vscode-icons/issues/87",
+    "priceUSD": 20,
+    "trying": 1,
+    "claimed": 1,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "pwvux",
+    "project": "vscode-icons",
+    "botInstalled": false,
+    "createdAt": 1736240887315
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "title": "[Test] Windows Voice hook verification",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/932",
+    "priceUSD": 1500,
+    "trying": 1,
+    "claimed": 1,
+    "programmingLanguages": [
+      "Python",
+      "JavaScript",
+      "Shell"
+    ],
+    "organization": "Ikalus1988",
+    "project": "MisakaNet",
+    "botInstalled": true,
+    "createdAt": 1786561328598
+  },
+  {
+    "title": "Tray icon should have an orange dot indicator",
+    "url": "https://github.com/aueangpanit/electron-template/issues/1",
+    "priceUSD": 100,
+    "trying": 2,
+    "claimed": 2,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "aueangpanit",
+    "project": "electron-template",
+    "botInstalled": false,
+    "createdAt": 1759431846716
+  },
+  {
+    "title": "Image resize",
+    "url": "https://github.com/ArcaneCircle/pixelsocial/issues/3",
+    "priceUSD": 70,
+    "trying": 2,
+    "claimed": 2,
+    "programmingLanguages": [
+      "JavaScript"
+    ],
+    "organization": "ArcaneCircle",
+    "project": "pixelsocial",
+    "botInstalled": false,
+    "createdAt": 1762360918195
+  },
+  {
+    "title": "[BUG] Internal Server Errors still shows success toast",
+    "url": "https://github.com/formbricks/formbricks/issues/3302",
+    "priceUSD": 60,
+    "trying": 3,
+    "claimed": 3,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "formbricks",
+    "project": "formbricks",
+    "botInstalled": false,
+    "createdAt": 1729542460932
+  },
+  {
+    "title": "Add French as a supported language",
+    "url": "https://github.com/Opire/docs/issues/2",
+    "priceUSD": 40,
+    "trying": 3,
+    "claimed": 2,
+    "programmingLanguages": [
+      "MDX",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Makefile"
+    ],
+    "organization": "Opire",
+    "project": "docs",
+    "botInstalled": true,
+    "createdAt": 1710519100942
+  },
+  {
+    "title": "$5 Reward: find a non-publicly-listed Mexican RSS feed for SASMEX",
+    "url": "https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1",
+    "priceUSD": 20,
+    "trying": 0,
+    "claimed": 0,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "Vicentegg4212",
+    "project": "sasmex-rss-bounty",
+    "botInstalled": false,
+    "createdAt": 1785433735125
+  },
+  {
+    "title": "Nest js icons",
+    "url": "https://github.com/tal7aouy/vscode-icons/issues/87",
+    "priceUSD": 20,
+    "trying": 1,
+    "claimed": 1,
+    "programmingLanguages": [
+      "TypeScript"
+    ],
+    "organization": "pwvux",
+    "project": "vscode-icons",
+    "botInstalled": false,
+    "createdAt": 1736240887315
+  }
+]
