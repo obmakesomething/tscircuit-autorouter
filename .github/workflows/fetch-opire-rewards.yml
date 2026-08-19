@@ -10,32 +10,46 @@ permissions:
 
 jobs:
   fetch:
-    if: ${{ !contains(github.event.head_commit.message, '[opire fetched]') }}
+    if: ${{ !contains(github.event.head_commit.message, '[opire all fetched]') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: research/opire-bounties-20260819
 
-      - name: Fetch unclaimed frontend rewards
+      - name: Fetch complete frontend reward inventory
         shell: bash
         run: |
-          mkdir -p research
-          curl --fail --silent --show-error --location \
-            --get 'https://app.opire.dev/api/backend/rewards' \
-            --data-urlencode 'page=1' \
-            --data-urlencode 'itemsPerPage=100' \
-            --data-urlencode 'minPrice=20' \
-            --data-urlencode 'programmingLanguages=TypeScript,JavaScript,CSS,HTML,Vue,Svelte,Astro' \
-            --data-urlencode 'usersTrying=NOBODY' \
-            --output research/opire-frontend-unclaimed-page1.json
-          python3 -m json.tool research/opire-frontend-unclaimed-page1.json > research/opire-frontend-unclaimed-page1.pretty.json
-          mv research/opire-frontend-unclaimed-page1.pretty.json research/opire-frontend-unclaimed-page1.json
+          mkdir -p research/opire-pages
+          : > research/opire-pages/files.txt
+          for page in $(seq 1 20); do
+            output="research/opire-pages/page-${page}.json"
+            curl --fail --silent --show-error --location \
+              --get 'https://app.opire.dev/api/backend/rewards' \
+              --data-urlencode "page=${page}" \
+              --data-urlencode 'itemsPerPage=100' \
+              --data-urlencode 'minPrice=20' \
+              --data-urlencode 'programmingLanguages=TypeScript,JavaScript,CSS,HTML,Vue,Svelte,Astro' \
+              --output "$output"
+            count=$(jq 'length' "$output")
+            if [ "$count" -eq 0 ]; then
+              rm "$output"
+              break
+            fi
+            echo "$output" >> research/opire-pages/files.txt
+            if [ "$count" -lt 100 ]; then
+              break
+            fi
+          done
+          jq -s 'add' $(cat research/opire-pages/files.txt) > research/opire-frontend-all.json
+          jq 'sort_by(.pendingPrice.value) | reverse' research/opire-frontend-all.json > research/opire-frontend-all.sorted.json
+          mv research/opire-frontend-all.sorted.json research/opire-frontend-all.json
+          rm -rf research/opire-pages
 
       - name: Commit result
         run: |
           git config user.name 'obmakesomething'
           git config user.email '107823004+obmakesomething@users.noreply.github.com'
-          git add research/opire-frontend-unclaimed-page1.json
-          git commit -m 'research: snapshot current unclaimed frontend rewards [opire fetched]'
+          git add research/opire-frontend-all.json
+          git commit -m 'research: snapshot complete frontend reward inventory [opire all fetched]'
           git push origin HEAD:research/opire-bounties-20260819
