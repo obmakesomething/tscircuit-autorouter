@@ -1,0 +1,38 @@
+name: Research issue 2147 input
+
+on:
+  push:
+    branches:
+      - research/issue-2147-stage-localization
+    paths:
+      - .github/workflows/research-issue-2147.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-input:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch exact phase-0 SRJ from upstream issue gist
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p research/issue-2147
+          curl -fL --retry 3 --retry-delay 1 \
+            'https://gist.githubusercontent.com/seveibar/5033268f8e1b21e34216dc96bfed2adc/raw/' \
+            -o research/issue-2147/input.srj.json
+          jq -e . research/issue-2147/input.srj.json >/dev/null
+          jq '{connections:(.connections|length), obstacles:(.obstacles|length), layerCount:(.layerCount // .layer_count // null), minTraceWidth:(.minTraceWidth // .min_trace_width // null), minViaDiameter:(.minViaDiameter // .min_via_diameter // null)}' research/issue-2147/input.srj.json > research/issue-2147/input-summary.json
+      - name: Commit research input
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'fga-research-bot'
+          git config user.email '107823004+obmakesomething@users.noreply.github.com'
+          git add research/issue-2147/input.srj.json research/issue-2147/input-summary.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'research: capture issue 2147 phase-0 SRJ [input captured]'
+          git push origin HEAD:${GITHUB_REF_NAME}
